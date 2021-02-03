@@ -1,6 +1,8 @@
 # Discord Bot
 A general use Discord bot that can play music, wiki search, lyrics search, and search for PS5 inventory at Target stores in the San Diego area.   
 
+NOTE: The bot token used in the source code is just a template token, it is not valid.
+
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
